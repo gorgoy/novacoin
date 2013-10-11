@@ -1,7 +1,6 @@
+Gorgoyn official development 
 
-NovaCoin official development tree
-
-NovaCoin - a hybrid scrypt PoW + PoS based cryptocurrency.
+Gorgoyn - a hybrid scrypt PoW + PoS based cryptocurrency.
 
 * 10 minutes stake spacing
 * 30 minutes PoW spacing
